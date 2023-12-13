@@ -1,2 +1,3 @@
 # apiratishappy.github.io
-apirat is happy, apirat is happy
+Libraries gave us power
+Then work came and made us free
